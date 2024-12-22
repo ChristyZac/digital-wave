@@ -1,0 +1,36 @@
+.about_section {
+    /* height: 100vh; */
+    background-color: #8c2ebbdb;
+    padding-bottom: 30px;
+}
+
+.h1_first_about {
+    color: rgb(52, 2, 76);;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 95px;
+}
+
+.about_para {
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.789);
+    line-height: 1.6em;
+    padding: 0px 40px;
+}
+
+.keypoints {
+    background: #8865b3;
+    border-radius: 20px;
+    box-shadow: 1px 1px 24px #6f1697;
+}
+
+.keypoints p {
+    color: antiquewhite;
+}
+
+.h3_company_his {
+    color: rgb(52, 2, 76);;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    /* font-size: 45px; */
+}

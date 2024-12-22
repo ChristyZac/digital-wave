@@ -1,0 +1,63 @@
+.footer {
+    background-color:rgb(52, 2, 76);
+    /* height: 30vh; */
+}
+
+.logo {
+    width: 200px;
+    padding: 20px;
+}
+
+.footer_m_links {
+    width: max-content;
+    padding-left: 0px;
+    color: #8c63b1; 
+    padding-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* From Uiverse.io by alexruix */ 
+.input_group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input {
+    min-height: 50px;
+    max-width: 150px;
+    padding: 0 1rem;
+    color: #fff;
+    font-size: 15px;
+    border: 1px solid #5e4dcd;
+    border-radius: 6px 0 0 6px;
+    background-color: transparent;
+  }
+  
+  .button_submit {
+    min-height: 50px;
+    padding: .5em 1em;
+    border: none;
+    border-radius: 0 6px 6px 0;
+    background-color: #5e4dcd;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color .3s ease-in-out;
+  }
+  
+  .button_submit:hover {
+    background-color: #5e5dcd;
+  }
+  
+  .input:focus, .input:focus-visible {
+    border-color: #3898EC;
+    outline: none;
+  }
+  
+
+.contact_us h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #8c63b1;
+}
